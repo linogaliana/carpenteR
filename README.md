@@ -1,3 +1,7 @@
+<!-- badges: start -->
+[![Travis build status](https://travis-ci.org/linogaliana/carpenteR.svg?branch=master)](https://travis-ci.org/linogaliana/carpenteR)
+<!-- badges: end -->
+
 # carpenteR
 
 ## Français
